@@ -1,5 +1,4 @@
 私人,#genre#
-
 翡翠台,http://119.32.12.32:2901/udp/224.1.100.121:11111
 广东民生,http://119.32.12.32:2901/udp/224.1.100.4:11111
 明珠台,http://119.32.12.32:2901/udp/224.1.100.2:11111
@@ -34,9 +33,7 @@ CCTV9,http://119.32.12.32:2901/udp/224.1.100.29:11111
 32号[1280*720],http://119.32.12.32:2901/udp/224.1.100.32:11111
 广东体育,http://119.32.12.32:2901/udp/224.1.100.33:11111
 34号[1920*1080],http://119.32.12.32:2901/udp/224.1.100.34:1111
-
 AKTV,#genre#
-
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
