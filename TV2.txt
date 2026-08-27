@@ -6,6 +6,8 @@ https://cdn6.cc.cd/163189/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
 http://c.123.rr.kg/163189/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+http://c.123.rr.kg/163189/jade
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
 https://10.fast.hidns.vip/163189/fct/
