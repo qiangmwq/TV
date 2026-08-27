@@ -27,6 +27,8 @@ http://8.138.7.223/tv/gdzj.m3u8
 https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="珠三角直播",广东珠江
 http://go.bkpcp.top/mg/gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="珠三角直播",广东珠江
+http://74.91.26.218:82/live/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江高清" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="珠三角直播",广东珠江高清
 http://119.29.142.81:4022/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江高清" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="珠三角直播",广东珠江高清
