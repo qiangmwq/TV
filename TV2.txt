@@ -1,26 +1,4 @@
 #EXTM3U x-tvg-url="https://diyp.epg.qzz.io/"
-#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台4K
-https://cdn3.indevs.in/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-https://cdn6.cc.cd/163189/fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-http://c.123.rr.kg/163189/fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-http://c.123.rr.kg/163189/jade
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-https://10.fast.hidns.vip/163189/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=28
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-http://211.97.63.3:3443/hls/541/index.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
-http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="珠三角直播",广东珠江
 https://2.fast.hidns.vip/163189/gdzj
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="珠三角直播",广东珠江
@@ -77,6 +55,42 @@ http://gdyd.7259.cc.cd:4111/udp/239.77.0.112:5146
 http://gdyd.7259.cc.cd:4014/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育高清" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="珠三角直播",广东体育高清
 http://www.syy3.top:3861/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台4K
+https://cdn3.indevs.in/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+https://cdn6.cc.cd/163189/fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+http://c.123.rr.kg/163189/fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+http://c.123.rr.kg/163189/jade
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+https://10.fast.hidns.vip/163189/fct/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+http://211.97.63.3:3443/hls/541/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="珠三角直播",翡翠台
+http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="珠三角直播",明珠台
+https://cdn3.indevs.in/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="珠三角直播",明珠台
+https://10.fast.hidns.vip/163189/mzt/
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="珠三角直播",明珠台
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="珠三角直播",明珠台
+http://49.232.143.177:80/pyxg/hmy.php?id=明珠台&key=***
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="珠三角直播",明珠台
+http://49.232.143.177:80/pyxg/hmy.php?id=明珠台b&key=***
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/无线新闻台.png" group-title="珠三角直播",无线新闻台
+https://cdn6.cc.cd/163189/wxxw
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/无线新闻台.png" group-title="珠三角直播",无线新闻台
+https://cdn6.cc.cd/163189/wxxwt
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视直播",CCTV-1 综合
 http://8.138.7.223/tv/api.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视直播",CCTV-1 综合
