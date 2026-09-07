@@ -111,6 +111,7 @@ http://t.061899.xyz/tl/tl.php?id=cctv2
 http://t.061899.xyz/tl/tl.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视直播",CCTV-3 综艺
 http://112.46.105.20:8009/hls/3/index.m3u8
+http://183.250.156.180:9999/newlive/live/hls/3/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视直播",CCTV-4 中文国际
 http://8.138.7.223/tv/api.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视直播",CCTV-4 中文国际
