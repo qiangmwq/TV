@@ -41,6 +41,8 @@ https://2.fast.hidns.vip/163189/gdty
 http://m.061899.xyz/mg/gdty
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="珠三角直播",广东体育
 http://go.bkpcp.top/mg/gdty
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="珠三角直播",广东体育
+http://120.196.235.42:9901/tsfile/live/1014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="广东体育高清" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="珠三角直播",广东体育高清
 http://119.29.142.81:4022/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育高清" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="珠三角直播",广东体育高清
